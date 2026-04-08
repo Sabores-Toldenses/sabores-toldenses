@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 En Sabores Toldenses creemos que los mejores productos nacen de la dedicación, los ingredientes honestos y el respeto por las recetas de siempre. Cada queso, cada mermelada, cada fiambre lleva el tiempo que merece.
+
+Nacimos en Los Toldos con la convicción de que la calidad artesanal merece llegar a cada rincón. Por eso hoy enviamos nuestros productos a CABA y todo el Gran Buenos Aires, para que los sabores del campo lleguen directamente a tu mesa sin que tengas que recorrer kilómetros.
 
 <!--
 **Sabores-Toldenses/sabores-toldenses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
